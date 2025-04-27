@@ -81,6 +81,8 @@ This project highlights the transformative potential of data science in aerospac
 
 Appendix
 1.	Presentation: A PDF summarizing project objectives, methodologies, and findings is available. 
+1.	Presentation: A PDF summarizing project objectives, methodologies, and findings is available. 
 o	Filename: SpaceX_Falcon_9_Landing_Prediction_Presentation.pdf
 2.	GitHub Repository: 
-o	Link to Notebooks and Code Files
+o	Jfalex2025/Predicting-Falcon-9-landing-success
+
